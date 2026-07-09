@@ -168,15 +168,10 @@ Create a Pull Request.
 
 ---
 
-## 📜 License
-
-MIT License
-
----
 
 <div align="center">
 
-### 👨‍💻 Developed by Your Name
+### 👨‍💻 Developed by varshith
 
 ⭐ If you like this project, give it a **Star** on GitHub!
 
