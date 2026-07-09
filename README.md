@@ -1,131 +1,183 @@
+<div align="center">
+
 # 🌡️ Temperature Converter
 
-A simple and responsive **Temperature Converter** built using **HTML, CSS, and JavaScript**. It allows users to convert temperatures between **Celsius, Fahrenheit, and Kelvin** instantly.
+### Convert **Celsius ⇄ Fahrenheit ⇄ Kelvin** instantly using HTML, CSS & JavaScript
 
-## 🚀 Features
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
-- Convert Celsius to Fahrenheit and Kelvin
-- Convert Fahrenheit to Celsius and Kelvin
-- Convert Kelvin to Celsius and Fahrenheit
-- Simple and responsive user interface
-- Instant conversion using JavaScript
-- Attractive gradient background and modern design
+</div>
 
-## 🛠️ Technologies Used
+---
 
-- HTML5
-- CSS3
-- JavaScript (Vanilla JS)
+## 📖 About
+
+A simple, responsive, and user-friendly **Temperature Converter** built using **HTML, CSS, and JavaScript**.
+
+It converts temperatures between:
+
+- 🌡️ Celsius
+- 🔥 Fahrenheit
+- ❄️ Kelvin
+
+---
+
+## ✨ Features
+
+✅ Simple UI
+
+✅ Responsive Design
+
+✅ Instant Temperature Conversion
+
+✅ Attractive Gradient Background
+
+✅ Beginner-Friendly Project
+
+---
+
+## 🖥️ Project Preview
+
+> Replace the image below with your own screenshot.
+
+<p align="center">
+<img src="screenshot.png" width="700">
+</p>
+
+---
+
+## 🎥 Demo
+
+You can also upload a GIF named **demo.gif**.
+
+<p align="center">
+<img src="demo.gif" width="700">
+</p>
+
+---
 
 ## 📂 Project Structure
 
-```
+```text
 Temperature-Converter/
-│── index.html
-│── README.md
+│
+├── index.html
+├── README.md
+├── screenshot.png
+└── demo.gif
 ```
 
-## 📸 Screenshot
+---
 
-> Add a screenshot of your project here.
-
-Example:
+## 🚀 Live Output
 
 ```
-Temperature-Converter/
-│── screenshot.png
+Temperature Converter
+
+Enter Temperature: 25
+
+Unit:
+[Celsius ▼]
+
+[ Convert ]
+
+-----------------------------
+Fahrenheit : 77.00 °F
+Kelvin     : 298.15 K
+-----------------------------
 ```
 
-Then use:
+---
 
-```md
-![Temperature Converter](screenshot.png)
+## ⚙️ Technologies Used
+
+| Technology | Purpose |
+|------------|---------|
+| HTML5 | Structure |
+| CSS3 | Styling |
+| JavaScript | Temperature Conversion |
+
+---
+
+## 🔄 Conversion Formula
+
+### Celsius
+
+```
+°F = (°C × 9/5) + 32
+K  = °C + 273.15
 ```
 
-## ▶️ How to Run
+### Fahrenheit
 
-1. Clone the repository
+```
+°C = (°F − 32) × 5/9
+K  = °C + 273.15
+```
+
+### Kelvin
+
+```
+°C = K − 273.15
+°F = (°C × 9/5) + 32
+```
+
+---
+
+## ▶️ Run the Project
+
+### Clone Repository
 
 ```bash
 git clone https://github.com/your-username/Temperature-Converter.git
 ```
 
-2. Open the project folder.
+### Open
 
-3. Double-click **index.html** or open it in your web browser.
+```text
+Open index.html in your browser.
+```
 
-No additional installation is required.
+No installation required.
 
-## 💡 How It Works
+---
 
-1. Enter a temperature value.
-2. Select the input unit:
-   - Celsius
-   - Fahrenheit
-   - Kelvin
-3. Click the **Convert** button.
-4. The converted temperatures are displayed instantly.
+## 🌟 Future Improvements
 
-## 🔄 Conversion Formulas
+- 🌙 Dark Mode
+- 📱 Better Mobile Design
+- ⚡ Live Conversion
+- 📋 Copy Result Button
+- 🔄 Swap Units
 
-### Celsius
-
-- Fahrenheit = (°C × 9/5) + 32
-- Kelvin = °C + 273.15
-
-### Fahrenheit
-
-- Celsius = (°F − 32) × 5/9
-- Kelvin = Celsius + 273.15
-
-### Kelvin
-
-- Celsius = K − 273.15
-- Fahrenheit = (Celsius × 9/5) + 32
-
-## 🎯 Future Improvements
-
-- Add Dark Mode
-- Real-time conversion while typing
-- Input validation for empty values
-- Copy result button
-- Better mobile responsiveness
+---
 
 ## 🤝 Contributing
 
 Contributions are welcome!
 
-1. Fork the repository
-2. Create a new branch
-
 ```bash
 git checkout -b feature-name
-```
-
-3. Commit your changes
-
-```bash
-git commit -m "Added new feature"
-```
-
-4. Push to GitHub
-
-```bash
+git commit -m "Added New Feature"
 git push origin feature-name
 ```
 
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
-## 👨‍💻 Author
-
-**Your Name**
-
-GitHub: https://github.com/your-username
+Create a Pull Request.
 
 ---
 
-⭐ If you like this project, don't forget to **Star** the repository!
+## 📜 License
+
+MIT License
+
+---
+
+<div align="center">
+
+### 👨‍💻 Developed by Your Name
+
+⭐ If you like this project, give it a **Star** on GitHub!
+
+</div>
